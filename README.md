@@ -1,4 +1,4 @@
-# SimpleImposterBaker-UE5
+# Simple Imposter Baker
  Imposter Baker plugin for Unreal Engine 5
 
 
