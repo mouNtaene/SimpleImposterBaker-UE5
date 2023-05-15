@@ -3,7 +3,6 @@
 #include "SimpleImposterBPLibrary.h"
 #include "SimpleImposter.h"
 #include "Engine/TextureRenderTarget2D.h"
-#include "OpenCVHelper.h"
 #include "UDynamicMesh.h"
 #include "DynamicMesh/DynamicMesh3.h"
 #include "GeometryScript/GeometryScriptTypes.h"

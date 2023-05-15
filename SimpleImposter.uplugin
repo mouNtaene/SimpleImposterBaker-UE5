@@ -25,6 +25,10 @@
 		{
 			"Name": "OpenCV",
 			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }

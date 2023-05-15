@@ -21,6 +21,7 @@ struct FContour
 
 };
 
+
 UCLASS(BlueprintType)
 class USimpleImposterBPLibrary : public UBlueprintFunctionLibrary
 {
@@ -38,4 +39,5 @@ class USimpleImposterBPLibrary : public UBlueprintFunctionLibrary
 			UDynamicMesh* TargetMesh,
 			UPARAM(DisplayName = "UV Channel") int UVSetIndex,
 			const TArray<FVector2D>& UV);
+	
 };
